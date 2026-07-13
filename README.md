@@ -1,6 +1,13 @@
-# ease-light-dark-toggle
-
+# ease-light-dark-toggle 
 A sleek animated light/dark mode toggle component for Ease Motion CSS.
+## 📸 Preview
+<div align="center">
+  <img src="./assets/light mode.png" alt="Light Mode Toggle" width="400" style="margin-right: 20px;">
+  <img src="./assets/dark mode.png" alt="Dark Mode Toggle" width="400">
+</div>
+
+---
+
 
 ## ✨ Features
 
@@ -21,6 +28,9 @@ A sleek animated light/dark mode toggle component for Ease Motion CSS.
 ease-light-dark-toggle/
 ├── index.html
 ├── style.css
+├── assets/
+│   ├── light mode.png
+│   └── dark mode.png
 └── README.md
 ```
 
@@ -83,17 +93,7 @@ You can easily customize:
 
 ---
 
-## 📸 Preview
 
-> Add a screenshot or GIF of the component here.
-
-Example:
-
-```md
-![Preview](assets/preview.png)
-```
-
----
 
 ## 🤝 Contributing
 
